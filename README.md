@@ -51,6 +51,6 @@ Classes:
 - results/: Training graphs and confusion matrix
 
 ## Author
-Nobinur Islam Alif
-22-49429-3
+Nobinur Islam Alif;
+22-49429-3;
 American International University-Bangladesh (AIUB)
